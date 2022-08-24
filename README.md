@@ -10,7 +10,7 @@
     road : 128 64 128
     background : 0 0 0
     
-** Method used in this repository**
+**Method used in this repository**
 + In this repo, I used 2 models: DeeplabV3+ and Unet with different backbone to evaluate the efficiency of 2 models on predicting pixel-wise labels.
 + In all of my proposal solutions, so far I specify that Unet + Inception model yield the most acceptable result, you can check my works in 2 following images 
 

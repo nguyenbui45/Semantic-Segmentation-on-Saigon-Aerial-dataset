@@ -6,8 +6,11 @@
 + There are 5 classes in this dataset, colored by following RGBs:
 
     motorbike : 192 0 192
+  
     car : 64 0 128
+  
     road : 128 64 128
+  
     background : 0 0 0
     
 **Method used in this repository**
